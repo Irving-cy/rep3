@@ -10,5 +10,7 @@ public class Hello {
         System.out.println("world");
 
         System.out.println("wonderful");
+
+        System.out.println("beautiful");
     }
 }
